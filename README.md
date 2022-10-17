@@ -1,2 +1,2 @@
 # calculator-js
-Calculator with JavaScript
+Calculator with HTML5, CSS3 and JavaScript
